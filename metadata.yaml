@@ -1,0 +1,47 @@
+_repo: Deadly-City_32705
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    - Alexander, Ed
+    - Emsh
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 32705-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fairman, Paul W.
+    birthdate: 1916
+    deathdate: 1977
+    gutenberg_agent_id: '9567'
+    url: http://www.gutenberg.org/2009/agents/9567
+description: Author Paul Warren Fairman dabbled in a number of different genres and
+  styles over the course of his career. ""Deadly City"" is one his most successful
+  science-fiction outings, eventually making its way to the silver screen as the basis
+  for a movie adaptation called Target Earth. In it, a Chicago man finds himself seemingly
+  alone on the planet after a brutal siege has taken place. Eventually, he falls in
+  with a motley crew of a few other survivors - but will they ever solve the ...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Deadly City
+url: http://www.gutenberg.org/ebooks/32705
